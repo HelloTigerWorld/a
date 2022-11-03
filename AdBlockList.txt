@@ -3,3 +3,4 @@
 ! URL: https://raw.githubusercontent.com/HelloTigerWorld/AdBlock/main/AdBlockList.txt
 !-----------------------General advert blocking filters-----------------------!
 autohome.com.cn##DIV[id="hot-chat-room"]
+autohome.com.cn##DIV[class="sidebar-tool"]
