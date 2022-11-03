@@ -1,2 +1,4 @@
 [Adblock Plus 2.0]
+! Title: Tiger's AdBlock List
+!-----------------------General advert blocking filters-----------------------!
 autohome.com.cn##DIV[id="hot-chat-room"]
