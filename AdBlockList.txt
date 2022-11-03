@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: Tiger's AdBlock List
+! URL: https://raw.githubusercontent.com/HelloTigerWorld/AdBlock/main/AdBlockList.txt
 !-----------------------General advert blocking filters-----------------------!
 autohome.com.cn##DIV[id="hot-chat-room"]
