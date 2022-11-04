@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Tiger's AdBlock List
 ! URL: https://raw.githubusercontent.com/HelloTigerWorld/AdBlock/main/AdBlockList.txt
-!-----------------------General advert blocking filters-----------------------!
+!-----------------------汽车之家-----------------------!
 autohome.com.cn##DIV[id="hot-chat-room"]
 autohome.com.cn##DIV[class="sidebar-tool"]
 autohome.com.cn##div[class="homepage-finance"]
@@ -16,3 +16,14 @@ autohome.com.cn##div[class="homepage-usedcar"]
 autohome.com.cn##div[class="homepage-ranking"]
 autohome.com.cn##div[class="homepage-hotcar"]
 autohome.com.cn##div[id="auto-index-dealer-row"]
+!-----------------------新浪新闻-----------------------!
+news.sina.com.cn##div[id="banner"]
+news.sina.com.cn##div[id="quickNav"]
+news.sina.com.cn##div[class="lbti"]
+news.sina.com.cn##div[id="Con11"]
+news.sina.com.cn##div[id="Con51"]
+news.sina.com.cn##div[id="Con81"]
+news.sina.com.cn##div[id="shm"]
+news.sina.com.cn##div[class="right-tlt"]
+news.sina.com.cn##div[class="new-media-lab"]
+news.sina.com.cn##div[id="tab_related"]
