@@ -2,6 +2,7 @@
 ! Title: Tiger's AdBlock List
 ! URL: https://raw.githubusercontent.com/HelloTigerWorld/AdBlock/main/AdBlockList.txt
 !-----------------------汽车之家-----------------------!
+autohome.com.cn##div[class="auto-header-nav topbar-nav"]
 autohome.com.cn##DIV[id="hot-chat-room"]
 autohome.com.cn##DIV[class="sidebar-tool"]
 autohome.com.cn##div[class="homepage-finance"]
