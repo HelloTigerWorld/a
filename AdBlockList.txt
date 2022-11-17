@@ -21,6 +21,8 @@ autohome.com.cn##div[class="focus-market"]
 autohome.com.cn##div[class="focus-live"]
 autohome.com.cn##div[id="electricBox"]
 autohome.com.cn##div[id="floornav-12"]
+autohome.com.cn##div[class="activity-app-layer"]
+autohome.com.cn##div[class="new-article"]
 club.autohome.com.cn##section[class="diversion-fixed-wrap"]
 !-----------------------新浪新闻-----------------------!
 news.sina.com.cn##div[id="banner"]
