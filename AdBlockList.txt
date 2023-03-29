@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Tiger's AdBlock List
-! URL: https://raw.githubusercontent.com/HelloTigerWorld/AdBlock/main/AdBlockList.txt
+! URL: https://raw.githubusercontent.com/HelloTigerWorld/a/main/AdBlockList.txt
 !-----------------------汽车之家-----------------------!
 autohome.com.cn##div[class="auto-header-nav topbar-nav"]
 autohome.com.cn##DIV[id="hot-chat-room"]
